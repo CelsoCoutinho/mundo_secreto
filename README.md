@@ -1,12 +1,7 @@
-# React + Vite
+# Mundo secreto
+(https://mundo-secreto.vercel.app/)
+Mundo Secreto é um jogo interativo de adivinhação de palavras, desenvolvido com foco em diversão e aprendizado. O jogador recebe uma dica de categoria (como 'fruta') e deve adivinhar corretamente a palavra oculta dentro de um número limitado de tentativas. O projeto foi criado com React, e tem como objetivo exercitar a lógica de programação, manipulação de estado e criação de uma interface amigável.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Secret World
+(https://mundo-secreto.vercel.app/)
+Secret World is an interactive word-guessing game designed for fun and learning. The player is given a category hint (such as "fruit") and must correctly guess the hidden word within a limited number of attempts. The project was built with React and aims to practice programming logic, state management, and the creation of a user-friendly interface.
